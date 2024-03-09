@@ -1,6 +1,6 @@
 <template>
     <v-layout class="rounded rounded-md">
-      <v-app-bar title="E-Sport Tracker"></v-app-bar>
+      <v-app-bar title="Your name application"></v-app-bar>
   
       <v-navigation-drawer>
         <v-list>
