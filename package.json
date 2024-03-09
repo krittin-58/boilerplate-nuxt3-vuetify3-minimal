@@ -10,8 +10,20 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@mdi/font": "^7.4.47",
     "nuxt": "^3.10.3",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@nuxt/image": "^1.4.0",
+    "@nuxtjs/color-mode": "^3.3.2",
+    "@nuxtjs/sitemap": "^5.1.2",
+    "dayjs-nuxt": "^2.1.9",
+    "nuxt-api-party": "^1.0.1",
+    "nuxt-snackbar": "^1.0.4",
+    "vite-plugin-vuetify": "^2.0.2",
+    "vuetify": "^3.5.8",
+    "vuetify-nuxt-module": "^0.12.0"
   }
 }
