@@ -12,8 +12,8 @@ export default defineNuxtConfig({
   ],
   apiParty: {
     endpoints: {
-      pandascore: {
-        url: "https://hobbies-backend.vercel.app/pandascore"
+      some_name_api: {
+        url: "<url-api-endpoint>"
       }
     }
   }
